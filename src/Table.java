@@ -25,4 +25,6 @@ public class Table {
     public void setColumnName(String[] columnName) {
         this.columnName = columnName;
     }
+    public void test(){
+    }
  }
